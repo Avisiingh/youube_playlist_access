@@ -24,7 +24,7 @@ export default async function SignInPage() {
         <div className="relative z-10">
           <Link href="/" className="inline-block">
             <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              yudoku
+              YouTube Course Platform
             </h1>
           </Link>
         </div>
@@ -51,7 +51,7 @@ export default async function SignInPage() {
           <div className="lg:hidden text-center mb-8">
             <Link href="/" className="inline-block">
               <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                yudoku
+                YouTube Course Platform
               </h1>
             </Link>
           </div>

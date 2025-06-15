@@ -8,19 +8,19 @@ import { Analytics } from "@vercel/analytics/next";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Yudoku",
-  description: "The Youtube Course Experience Platform",
+  title: "YouTube Course Platform",
+  description: "The YouTube Course Experience Platform",
   openGraph: {
-    title: "Yudoku",
+    title: "YouTube Course Platform",
     description: "Track your progress through YouTube courses",
-    url: "https://yudoku.vercel.app", // Replace with your site's URL
-    siteName: "Yudoku",
+    url: "https://youtube-course-platform.vercel.app",
+    siteName: "YouTube Course Platform",
     images: [
       {
-        url: "homepage.png", // Replace with your image URL
-        width: 1200, // Match your image's dimensions
-        height: 630, // Match your image's dimensions
-        alt: "Yudoku platform thumbnail", // Descriptive alt text
+        url: "homepage.png",
+        width: 1200,
+        height: 630,
+        alt: "YouTube Course Platform thumbnail",
       },
     ],
     type: "website",

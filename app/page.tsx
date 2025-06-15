@@ -1,11 +1,5 @@
-import LandingPage from "@/components/LandingPage";
-import { Navbar } from "@/components/Navbar";
+import { redirect } from "next/navigation";
 
 export default function Home() {
-  return (
-    <div className="light">
-      <Navbar />
-      <LandingPage />
-    </div>
-  );
+  redirect("/sign-in");
 }

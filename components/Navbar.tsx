@@ -20,7 +20,7 @@ export function Navbar() {
     <div className="fixed w-full z-50 flex justify-between items-center py-2 px-4 border-b border-gray-200 bg-white h-16">
       <div className="flex items-center">
         <Link href="/" className="flex items-center">
-          <h1 className="text-2xl font-bold text-gray-900">yudoku</h1>
+          <h1 className="text-2xl font-bold text-gray-900">YouTube Course Platform</h1>
         </Link>
       </div>
       <div className="flex items-center gap-x-3">

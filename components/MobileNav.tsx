@@ -32,7 +32,7 @@ export function MobileNav() {
       >
         <SheetHeader className="px-4 py-3 border-b border-blue-700/30">
           <SheetTitle className="text-xl font-bold text-blue-100">
-            yudoku
+            YouTube Course Platform
           </SheetTitle>
         </SheetHeader>
         <div className="text-white">

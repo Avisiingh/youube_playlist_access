@@ -45,7 +45,7 @@ export default function DashboardLayout({
               href="/"
               className="text-xl font-bold text-slate-100 ml-2 hover:text-slate-300 transition-opacity duration-200 ease-in-out"
             >
-              yudoku
+              YouTube Course Platform
             </Link>
           )}
         </div>

@@ -62,7 +62,7 @@ export default function LoadingScreen({
       <div className="flex flex-col items-center gap-6">
         <div className="flex flex-col items-center">
           <h1 className="text-3xl font-bold text-blue-600 dark:text-blue-400 mb-1">
-            Yudoku
+            YouTube Course Platform
           </h1>
         </div>
 
